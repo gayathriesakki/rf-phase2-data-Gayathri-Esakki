@@ -34,7 +34,7 @@ The project demonstrates the complete data analysis workflow including data clea
 The objective of this phase is to develop real-world analytical thinking, improve technical skills, and create a portfolio-ready project for future job opportunities.
 
 
- # Retail Sales Data Analysis – Insight Report (Task 1)
+ # Task 1: Business Dataset Analysis
 
 ## Overview
 This project focuses on analyzing retail transaction data to extract meaningful business insights. The dataset was downloaded from Kaggle and includes:

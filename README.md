@@ -33,30 +33,37 @@ The project demonstrates the complete data analysis workflow including data clea
 
 The objective of this phase is to develop real-world analytical thinking, improve technical skills, and create a portfolio-ready project for future job opportunities.
 
-##Retail Sales Data Analysis – Insight Report of Task 1
+# Retail Sales Data Analysis – Insight Report (Task 1)
 
-##Objective :
-The purpose of this analysis is to understand customer purchasing behavior, product performance, and revenue trends using retail transaction data. The insights help businesses make better decisions in marketing, inventory planning, and customer targeting.
-Key Findings :
+## Objective
+The purpose of this analysis is to understand customer purchasing behavior, product performance, and revenue trends using retail transaction data.  
+The insights help businesses make better decisions in marketing, inventory planning, and customer targeting.
 
-1. Product Category Performance
-The analysis shows that a small number of product categories generate the majority of total revenue. This indicates that focusing promotions, stock availability, and marketing campaigns on high-performing categories can significantly improve overall sales.
+## Key Findings
 
-2. Monthly Sales Trend
-Sales vary across months, with noticeable peaks during certain periods that may correspond to festive seasons, discounts, or increased customer demand. Understanding these seasonal trends helps businesses plan inventory, staffing, and promotional strategies more effectively.
+### 1. Product Category Performance
+The analysis shows that a small number of product categories generate the majority of total revenue.  
+This indicates that focusing promotions, stock availability, and marketing campaigns on high-performing categories can significantly improve overall sales.
 
-3. Store Type Contribution
-Different store formats contribute unevenly to total revenue. One or two store types clearly outperform others, suggesting that the business should invest more in successful formats while improving or rethinking weaker ones.
+### 2. Monthly Sales Trend
+Sales vary across months, with noticeable peaks during certain periods that may correspond to festive seasons, discounts, or increased customer demand.  
+Understanding these seasonal trends helps businesses plan inventory, staffing, and promotional strategies more effectively.
 
-4. High-Value Customers
-A small group of customers contributes a large share of total revenue. Identifying and retaining these high-value customers through loyalty programs, personalized offers, and targeted communication can increase long-term profitability.
+### 3. Store Type Contribution
+Different store formats contribute unevenly to total revenue.  
+One or two store types clearly outperform others, suggesting that the business should invest more in successful formats while improving or rethinking weaker ones.
 
-5. Gender-Based Sales Distribution
-Sales contribution differs slightly between male and female customers. This insight can support gender-specific marketing strategies, product recommendations, and promotional campaigns.
+### 4. High-Value Customers
+A small group of customers contributes a large share of total revenue.  
+Identifying and retaining these high-value customers through loyalty programs, personalized offers, and targeted communication can increase long-term profitability.
 
-###Business Impact
-Overall, the analysis highlights the importance of category focus, seasonal planning, store optimization, and customer retention. By acting on these insights, businesses can improve revenue growth, enhance customer satisfaction, and make data-driven strategic decisions.
+### 5. Gender-Based Sales Distribution
+Sales contribution differs slightly between male and female customers.  
+This insight can support gender-specific marketing strategies, product recommendations, and promotional campaigns.
 
+## Business Impact
+Overall, the analysis highlights the importance of **category focus, seasonal planning, store optimization, and customer retention**.  
+By acting on these insights, businesses can improve revenue growth, enhance customer satisfaction, and make data-driven strategic decisions.
 
 
 

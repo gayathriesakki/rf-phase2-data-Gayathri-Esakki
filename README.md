@@ -33,9 +33,10 @@ The project demonstrates the complete data analysis workflow including data clea
 
 The objective of this phase is to develop real-world analytical thinking, improve technical skills, and create a portfolio-ready project for future job opportunities.
 
-📊 Retail Sales Data Analysis – Phase 2 Internship Project
-📌 Project Overview
 
+ # Retail Sales Data Analysis – Insight Report (Task 1)
+
+## Overview
 This project focuses on analyzing retail transaction data to extract meaningful business insights. The dataset was downloaded from Kaggle and includes:
 
 Product Information
@@ -46,7 +47,7 @@ Transaction Data
 
 The analysis was performed using Python (Pandas, Matplotlib, Seaborn) in Jupyter Notebook.
 
-🎯 Objectives
+## Objectives
 
 Identify highest revenue-generating product categories
 
@@ -60,7 +61,7 @@ Identify top 10 customers
 
 Compare sales contribution by gender
 
-🔍 Key Insights
+# Key Insights
 1️⃣ Highest Revenue Category
 
 Certain product categories generate the majority of total revenue.
@@ -85,7 +86,7 @@ A small number of customers contribute a large share of total revenue.
 
 Sales contribution differs between male and female customers.
 
-🛠 Tools & Technologies Used
+# Tools & Technologies Used
 
 Python
 
@@ -97,7 +98,7 @@ Seaborn
 
 Jupyter Notebook
 
-📈 Business Value
+# Business Value
 
 This project demonstrates how data analysis can help businesses:
 

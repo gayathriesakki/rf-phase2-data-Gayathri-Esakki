@@ -33,37 +33,83 @@ The project demonstrates the complete data analysis workflow including data clea
 
 The objective of this phase is to develop real-world analytical thinking, improve technical skills, and create a portfolio-ready project for future job opportunities.
 
-# Retail Sales Data Analysis – Insight Report (Task 1)
+📊 Retail Sales Data Analysis – Phase 2 Internship Project
+📌 Project Overview
 
-## Objective
-The purpose of this analysis is to understand customer purchasing behavior, product performance, and revenue trends using retail transaction data.  
-The insights help businesses make better decisions in marketing, inventory planning, and customer targeting.
+This project focuses on analyzing retail transaction data to extract meaningful business insights. The dataset was downloaded from Kaggle and includes:
 
-## Key Findings
+Product Information
 
-### 1. Product Category Performance
-The analysis shows that a small number of product categories generate the majority of total revenue.  
-This indicates that focusing promotions, stock availability, and marketing campaigns on high-performing categories can significantly improve overall sales.
+Customer Information
 
-### 2. Monthly Sales Trend
-Sales vary across months, with noticeable peaks during certain periods that may correspond to festive seasons, discounts, or increased customer demand.  
-Understanding these seasonal trends helps businesses plan inventory, staffing, and promotional strategies more effectively.
+Transaction Data
 
-### 3. Store Type Contribution
-Different store formats contribute unevenly to total revenue.  
-One or two store types clearly outperform others, suggesting that the business should invest more in successful formats while improving or rethinking weaker ones.
+The analysis was performed using Python (Pandas, Matplotlib, Seaborn) in Jupyter Notebook.
 
-### 4. High-Value Customers
-A small group of customers contributes a large share of total revenue.  
-Identifying and retaining these high-value customers through loyalty programs, personalized offers, and targeted communication can increase long-term profitability.
+🎯 Objectives
 
-### 5. Gender-Based Sales Distribution
-Sales contribution differs slightly between male and female customers.  
-This insight can support gender-specific marketing strategies, product recommendations, and promotional campaigns.
+Identify highest revenue-generating product categories
 
-## Business Impact
-Overall, the analysis highlights the importance of **category focus, seasonal planning, store optimization, and customer retention**.  
-By acting on these insights, businesses can improve revenue growth, enhance customer satisfaction, and make data-driven strategic decisions.
+Analyze month-by-month sales trends
+
+Determine top-performing store types
+
+Find highest sales month
+
+Identify top 10 customers
+
+Compare sales contribution by gender
+
+🔍 Key Insights
+1️⃣ Highest Revenue Category
+
+Certain product categories generate the majority of total revenue.
+
+2️⃣ Monthly Sales Trend
+
+Sales vary across months with noticeable seasonal peaks.
+
+3️⃣ Store Type Contribution
+
+Some store types significantly outperform others in revenue contribution.
+
+4️⃣ Highest Sales Month
+
+A specific month recorded peak overall revenue.
+
+5️⃣ Top 10 Customers
+
+A small number of customers contribute a large share of total revenue.
+
+6️⃣ Gender-Based Sales Distribution
+
+Sales contribution differs between male and female customers.
+
+🛠 Tools & Technologies Used
+
+Python
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
+
+📈 Business Value
+
+This project demonstrates how data analysis can help businesses:
+
+Improve sales strategy
+
+Optimize inventory planning
+
+Target high-value customers
+
+Understand seasonal trends
+
+Make data-driven decisions
 
 
 
